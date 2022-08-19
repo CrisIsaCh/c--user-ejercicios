@@ -14,7 +14,9 @@ namespace Ejerc_
         /// </summary>
         public Cliente Cliente { get; set; }
         private decimal _saldo;
-
+        /// <summary>
+        /// 
+        /// </summary>
         public decimal Saldo
         {
             get
