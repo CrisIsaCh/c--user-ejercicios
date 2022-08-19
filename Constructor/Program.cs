@@ -41,6 +41,11 @@ namespace Constructor
             Agenda amigo =new Agenda("Juan",25,"(555) 123-456");
             Console.WriteLine(amigo.ToString());
 
+
+
+
+
+
             Console.ReadKey();
         }
     }

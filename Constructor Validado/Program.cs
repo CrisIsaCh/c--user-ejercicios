@@ -15,7 +15,12 @@ namespace Constructor_Validado
             public int Edad;
             public string Telefono;
 
-
+            /// <summary>
+            /// 
+            /// </summary>
+            /// <param name="pNombre"></param>
+            /// <param name="pEdad"></param>
+            /// <param name="ptTelefono"></param>
             //-------------------CONSTRUCTOR-----------//
 
             //--------se valida en el constrcutor Telefono

@@ -8,6 +8,10 @@ namespace Ejerc_
 {
     public class Cuenta
     {
+
+        /// <summary>
+        /// 
+        /// </summary>
         public Cliente Cliente { get; set; }
         private decimal _saldo;
 
