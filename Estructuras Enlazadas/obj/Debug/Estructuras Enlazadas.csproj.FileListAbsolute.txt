@@ -1,0 +1,7 @@
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructuras Enlazadas\bin\Debug\Estructuras Enlazadas.exe.config
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructuras Enlazadas\bin\Debug\Estructuras Enlazadas.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructuras Enlazadas\bin\Debug\Estructuras Enlazadas.pdb
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructuras Enlazadas\obj\Debug\Estructuras Enlazadas.csprojAssemblyReference.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructuras Enlazadas\obj\Debug\Estructuras Enlazadas.csproj.CoreCompileInputs.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructuras Enlazadas\obj\Debug\Estructuras Enlazadas.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructuras Enlazadas\obj\Debug\Estructuras Enlazadas.pdb

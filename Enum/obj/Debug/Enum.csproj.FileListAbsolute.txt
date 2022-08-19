@@ -1,0 +1,7 @@
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Enum\bin\Debug\Enum.exe.config
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Enum\bin\Debug\Enum.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Enum\bin\Debug\Enum.pdb
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Enum\obj\Debug\Enum.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Enum\obj\Debug\Enum.pdb

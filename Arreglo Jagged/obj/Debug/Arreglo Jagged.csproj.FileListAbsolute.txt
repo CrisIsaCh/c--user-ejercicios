@@ -1,0 +1,7 @@
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Arreglo Jagged\bin\Debug\Arreglo Jagged.exe.config
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Arreglo Jagged\bin\Debug\Arreglo Jagged.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Arreglo Jagged\bin\Debug\Arreglo Jagged.pdb
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Arreglo Jagged\obj\Debug\Arreglo Jagged.csprojAssemblyReference.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Arreglo Jagged\obj\Debug\Arreglo Jagged.csproj.CoreCompileInputs.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Arreglo Jagged\obj\Debug\Arreglo Jagged.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Arreglo Jagged\obj\Debug\Arreglo Jagged.pdb

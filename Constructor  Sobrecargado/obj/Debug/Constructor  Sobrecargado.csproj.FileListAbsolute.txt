@@ -1,0 +1,7 @@
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Constructor  Sobrecargado\bin\Debug\Constructor  Sobrecargado.exe.config
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Constructor  Sobrecargado\bin\Debug\Constructor  Sobrecargado.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Constructor  Sobrecargado\bin\Debug\Constructor  Sobrecargado.pdb
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Constructor  Sobrecargado\obj\Debug\Constructor  Sobrecargado.csprojAssemblyReference.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Constructor  Sobrecargado\obj\Debug\Constructor  Sobrecargado.csproj.CoreCompileInputs.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Constructor  Sobrecargado\obj\Debug\Constructor  Sobrecargado.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Constructor  Sobrecargado\obj\Debug\Constructor  Sobrecargado.pdb

@@ -1,0 +1,7 @@
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Matriz unidimensional\bin\Debug\Matriz unidimensional.exe.config
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Matriz unidimensional\bin\Debug\Matriz unidimensional.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Matriz unidimensional\bin\Debug\Matriz unidimensional.pdb
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Matriz unidimensional\obj\Debug\Matriz unidimensional.csprojAssemblyReference.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Matriz unidimensional\obj\Debug\Matriz unidimensional.csproj.CoreCompileInputs.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Matriz unidimensional\obj\Debug\Matriz unidimensional.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Matriz unidimensional\obj\Debug\Matriz unidimensional.pdb

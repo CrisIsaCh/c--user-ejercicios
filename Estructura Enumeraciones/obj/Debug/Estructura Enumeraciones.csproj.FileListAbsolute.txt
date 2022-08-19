@@ -1,0 +1,7 @@
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructura Enumeraciones\bin\Debug\Estructura Enumeraciones.exe.config
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructura Enumeraciones\bin\Debug\Estructura Enumeraciones.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructura Enumeraciones\bin\Debug\Estructura Enumeraciones.pdb
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructura Enumeraciones\obj\Debug\Estructura Enumeraciones.csprojAssemblyReference.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructura Enumeraciones\obj\Debug\Estructura Enumeraciones.csproj.CoreCompileInputs.cache
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructura Enumeraciones\obj\Debug\Estructura Enumeraciones.exe
+D:\ComerceParaPracticar2022\Programa Gastronomico Terminado Final 2019\Ejerc1\Estructura Enumeraciones\obj\Debug\Estructura Enumeraciones.pdb
